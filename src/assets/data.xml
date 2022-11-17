@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product prodID="1">
+        <categories>
+            <category1>Мебель</category1>
+            <category2>Кухня</category2>
+            <category3>Плиты</category3>
+        </categories>
+        <name>Футболка</name>
+    </product>
+</products>
